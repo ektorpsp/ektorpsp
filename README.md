@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ektor Phillipe</h1>
-<h3 align="center">I'm focused on learning programming for analysis and data science, focused on economics and finance.</h3>
+<h3 align="center">I am an aspiring data scientist, focused on economics and finance, from Brazil.</h3>
 
 - 🌱 I’m currently learning **Python, SQL, Power BI.**
 
@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ektorpsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ektorpsp" height="30" width="40" /></a>
+<a href="https://medium.com/@ektor.psp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ektor.psp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
